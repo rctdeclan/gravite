@@ -1,0 +1,3 @@
+Content\GameThumbnail.xnb
+Content\Arial.xnb
+Content\image.xnb
