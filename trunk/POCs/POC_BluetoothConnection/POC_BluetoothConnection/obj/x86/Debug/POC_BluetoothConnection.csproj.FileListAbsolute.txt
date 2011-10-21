@@ -1,7 +1,0 @@
-c:\users\ankie\Projects\POC_BluetoothConnection\POC_BluetoothConnection\bin\Debug\POC_BluetoothConnection.exe
-c:\users\ankie\Projects\POC_BluetoothConnection\POC_BluetoothConnection\bin\Debug\POC_BluetoothConnection.pdb
-c:\users\ankie\Projects\POC_BluetoothConnection\POC_BluetoothConnection\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\ankie\Projects\POC_BluetoothConnection\POC_BluetoothConnection\obj\x86\Debug\POC_BluetoothConnection.exe
-c:\users\ankie\Projects\POC_BluetoothConnection\POC_BluetoothConnection\obj\x86\Debug\POC_BluetoothConnection.pdb
-F:\Fontys\PT11\POC_BluetoothConnection\POC_BluetoothConnection\obj\x86\Debug\POC_BluetoothConnection.exe
-F:\Fontys\PT11\POC_BluetoothConnection\POC_BluetoothConnection\obj\x86\Debug\POC_BluetoothConnection.pdb
