@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PloobsProjectTemplate", "Gravité\Gravité\PloobsProjectTemplate.csproj", "{541EC095-9B07-4675-9A34-952AD0DD350A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravité", "Gravité\Gravité\Gravité.csproj", "{541EC095-9B07-4675-9A34-952AD0DD350A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PloobsProjectTemplateContent", "Gravité\GravitéContent\PloobsProjectTemplateContent.contentproj", "{4CC46F5A-082E-44A2-B6C0-3A607C78CE05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravitéContent", "Gravité\GravitéContent\GravitéContent.contentproj", "{4CC46F5A-082E-44A2-B6C0-3A607C78CE05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
