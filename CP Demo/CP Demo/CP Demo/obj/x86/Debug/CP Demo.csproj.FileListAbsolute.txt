@@ -1,9 +1,0 @@
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\bin\x86\Debug\CP Demo.exe
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\bin\x86\Debug\CP Demo.pdb
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\obj\x86\Debug\CP Demo.exe
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\obj\x86\Debug\CP Demo.pdb
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\bin\x86\Debug\Content\GameThumbnail.xnb
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\bin\x86\Debug\Content\Arial.xnb
-F:\Fontys\PT11\CP Demo\CP Demo\CP Demo\bin\x86\Debug\Content\image.xnb
