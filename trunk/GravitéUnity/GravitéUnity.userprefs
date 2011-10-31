@@ -1,13 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CP\CPReceiverV4.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Startup.cs">
     <Files>
-      <File FileName="Assets\CP\CPReceiverV2.cs" Line="1" Column="1" />
-      <File FileName="Assets\CP\CPReceiverV4.cs" Line="25" Column="17" />
+      <File FileName="Assets\Scripts\Startup.cs" Line="27" Column="1" />
+      <File FileName="Assets\CP\CPReceiverV4Mono.cs" Line="46" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Owner\Projects\GravitéUnity\Assets\Scripts\Startup.cs" line="9" />
+      <Breakpoint file="C:\Users\Owner\Projects\GravitéUnity\Assets\CP\CPReceiverV4.cs" line="19" />
+      <Breakpoint file="C:\Users\Owner\Projects\GravitéUnity\Assets\CP\CPReceiverV4.cs" line="30" />
+      <Breakpoint file="C:\Users\Owner\Projects\GravitéUnity\Assets\CP\CPReceiverV4.cs" line="65" />
+      <Breakpoint file="C:\Users\Owner\Projects\GravitéUnity\Assets\Scripts\Startup.cs" line="25" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
