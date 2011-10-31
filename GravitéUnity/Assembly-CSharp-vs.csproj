@@ -48,6 +48,8 @@
      <Compile Include="Assets\CP\CPReceiverV2.cs" />
      <Compile Include="Assets\CP\CPReceiverV3.cs" />
      <Compile Include="Assets\CP\CPReceiverV4.cs" />
+     <Compile Include="Assets\CP\CPReceiverV4Mono.cs" />
+     <Compile Include="Assets\Scripts\Startup.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
