@@ -18,9 +18,7 @@ namespace Gravite
             desc.BackBufferWidth = resolution.Width;
             desc.BackBufferHeight = resolution.Height;
             desc.isFullScreen = resolution.IsFullscreen;
-            desc.UseVerticalSyncronization = true;
             desc.isFixedGameTime = true;
-            desc.isMultiSampling = true;
             desc.useMipMapWhenPossible = true;
             desc.UnhandledException_Handler = UnhandledException;
             System.Threading.Thread gameThread = new System.Threading.Thread(() =>
