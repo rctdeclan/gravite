@@ -11,7 +11,6 @@ namespace Gravite
         public static OptionsScreen optionsScreen;
         public static GraviteGame game;
 
-        public static bool isFullscreen;
         public static Resolution selectedRes;
 
         [STAThread]
