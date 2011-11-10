@@ -44,12 +44,24 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CP\CPReceiver.cs" />
-     <Compile Include="Assets\CP\CPReceiverV2.cs" />
-     <Compile Include="Assets\CP\CPReceiverV3.cs" />
-     <Compile Include="Assets\CP\CPReceiverV4.cs" />
-     <Compile Include="Assets\CP\CPReceiverV4Mono.cs" />
-     <Compile Include="Assets\Scripts\Startup.cs" />
+     <Compile Include="Assets\Scripts\AudioDispatcher.cs" />
+     <Compile Include="Assets\Scripts\BlowerTrigger.cs" />
+     <Compile Include="Assets\Scripts\CP\CPReceiverV5.cs" />
+     <Compile Include="Assets\Scripts\FallTrigger.cs" />
+     <Compile Include="Assets\Scripts\FollowCam.cs" />
+     <Compile Include="Assets\Scripts\LifeTrigger.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Point.cs" />
+     <Compile Include="Assets\Scripts\RuntimeBall.cs" />
+     <Compile Include="Assets\Scripts\Stage.cs" />
+     <Compile Include="Assets\Scripts\StageTrigger.cs" />
+     <Compile Include="Assets\Scripts\TransformerTrigger.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{5BCE94AF-2CB8-1716-3CF5-65EE40CDFF26}</Project>
+      <Name>Assembly-CSharp-firstpass-vs</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
